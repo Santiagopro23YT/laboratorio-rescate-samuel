@@ -1,0 +1,2 @@
+Este borrador reúne ideas para practicar con Git.
+Una vez revisadas, guardo la versión completa en un commit.

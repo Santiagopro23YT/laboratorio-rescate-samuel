@@ -1,0 +1,4 @@
+Línea 1: Git guarda el historial del proyecto.
+Línea 2: Cada commit guarda una versión de los archivos.
+Línea 3: Las ramas permiten trabajar sin dañar main.
+Línea 4: Puedo corregir el último commit antes de subirlo.
